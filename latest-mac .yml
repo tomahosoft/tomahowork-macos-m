@@ -1,0 +1,17 @@
+version: 1.0.4
+files:
+  - url: TomWork-1.0.4-arm64-mac.zip
+    sha512: tDUv/Kv35DZNOmsKWz1T4fgCZcPG9FEf9DM4pDqbzR+CQhB5eDuRZtjxj4W525BUt2Lqct4doAgAHLBDVetnbQ==
+    size: 103420597
+  - url: TomWork-1.0.4-mac.zip
+    sha512: M0pjHu0ckdP/BQcfkQTzuVKpJCHVk6GzfFAie5+vEYiBB10AUAYfxnNIFXokYByQaW7wOU/yl1ut+n/FiLpGcA==
+    size: 103702255
+  - url: TomWork-1.0.4-arm64.dmg
+    sha512: 0bZIsZ1256CtnWOiUV4tRKIQ5gxrQZNKMfHziF7jqzZjXTx8PbHmrnkNmyOFgyGPwA4tNRl19c/iOXiYQNV4ZQ==
+    size: 107680497
+  - url: TomWork-1.0.4.dmg
+    sha512: 6wYUMkWAjQIjp8pJEjzh/AMN7lVspkNlTXTAj2Frb27YKJEtO7va+lkGj6XKCsVrvVadar8633nqqFdBl7HwPg==
+    size: 107698847
+path: TomWork-1.0.4-arm64-mac.zip
+sha512: tDUv/Kv35DZNOmsKWz1T4fgCZcPG9FEf9DM4pDqbzR+CQhB5eDuRZtjxj4W525BUt2Lqct4doAgAHLBDVetnbQ==
+releaseDate: '2022-10-12T02:30:51.432Z'
